@@ -1,0 +1,6 @@
+{
+  "name": "OPRYX",
+  "description": "The operating system behind modern creators — full-service management for talent, brand deals, and payouts.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
